@@ -57,7 +57,7 @@ hr {
 
 header {
     background-color: var(--color-light);
-    background-color: black;
+    background-color: var(--color-dark);
     color: #ffffff;
 }
 
@@ -103,7 +103,7 @@ nav ul{
 }
 
 .welcome {
-    background-image: linear-gradient(180deg, #0C0C0E 0%, #0C0C0E 0.01%, rgba(18, 18, 21, 0.10) 100%), url("../../assets/images/Welcome.png");
+    background-image: linear-gradient(180deg, #0C0C0E 0%, #0C0C0E 0.01%, rgba(18, 18, 21, 0.10) 100%), url("../Library/assets/images/Welcome.png");
     background-size: cover;
 }
 
